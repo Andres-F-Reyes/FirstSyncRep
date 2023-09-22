@@ -1,2 +1,7 @@
 Este documento ha sido creado y modificado de manera local para
 posteriormente ser subido al repositorio en GitHub
+
+El ejercicio de FizzBuzz consiste en que si un numero es multiplo de 5,
+entonces se imprima "Buzz" en su lugar. Si el número es múltiple de 3,
+se mostrará "Fizz". Y en que caso de que sea multiplo de ambos,
+Se mostrará FizzBuzz.
