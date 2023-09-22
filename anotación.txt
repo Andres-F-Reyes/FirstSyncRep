@@ -1,1 +1,2 @@
-Estoy queriendo fucionar las ramas.
+Este documento ha sido creado y modificado de manera local para
+posteriormente ser subido al repositorio en GitHub
